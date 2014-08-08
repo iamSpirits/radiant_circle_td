@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+     maps			"radiantcircle_002"
+     "IsPlayable"	"0"
+}
