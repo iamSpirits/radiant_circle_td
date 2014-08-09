@@ -74,9 +74,9 @@
 		"Player_3_FrostyPoints"			"long"
 		"Player_3_GoldFrostyPoints"		"long"
 
-		"Player_4_HeroName"				"string"
-		"Player_4_FrostyPoints"			"long"
-		"Player_4_GoldFrostyPoints"		"long"
+		//"Player_4_HeroName"				"string"
+		//"Player_4_FrostyPoints"			"long"
+		//"Player_4_GoldFrostyPoints"		"long"
 	}
 
 	"rctd_restart_vote"
